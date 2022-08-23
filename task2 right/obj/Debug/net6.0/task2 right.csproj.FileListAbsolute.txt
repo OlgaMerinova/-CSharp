@@ -1,0 +1,15 @@
+C:\Users\Ольга\Desktop\Оля\учеба тестировщик\знакомство с С Sharp\Семинары\ДЗ1\task2 right\bin\Debug\net6.0\task2 right.exe
+C:\Users\Ольга\Desktop\Оля\учеба тестировщик\знакомство с С Sharp\Семинары\ДЗ1\task2 right\bin\Debug\net6.0\task2 right.deps.json
+C:\Users\Ольга\Desktop\Оля\учеба тестировщик\знакомство с С Sharp\Семинары\ДЗ1\task2 right\bin\Debug\net6.0\task2 right.runtimeconfig.json
+C:\Users\Ольга\Desktop\Оля\учеба тестировщик\знакомство с С Sharp\Семинары\ДЗ1\task2 right\bin\Debug\net6.0\task2 right.dll
+C:\Users\Ольга\Desktop\Оля\учеба тестировщик\знакомство с С Sharp\Семинары\ДЗ1\task2 right\bin\Debug\net6.0\task2 right.pdb
+C:\Users\Ольга\Desktop\Оля\учеба тестировщик\знакомство с С Sharp\Семинары\ДЗ1\task2 right\obj\Debug\net6.0\task2 right.csproj.AssemblyReference.cache
+C:\Users\Ольга\Desktop\Оля\учеба тестировщик\знакомство с С Sharp\Семинары\ДЗ1\task2 right\obj\Debug\net6.0\task2 right.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\Desktop\Оля\учеба тестировщик\знакомство с С Sharp\Семинары\ДЗ1\task2 right\obj\Debug\net6.0\task2 right.AssemblyInfoInputs.cache
+C:\Users\Ольга\Desktop\Оля\учеба тестировщик\знакомство с С Sharp\Семинары\ДЗ1\task2 right\obj\Debug\net6.0\task2 right.AssemblyInfo.cs
+C:\Users\Ольга\Desktop\Оля\учеба тестировщик\знакомство с С Sharp\Семинары\ДЗ1\task2 right\obj\Debug\net6.0\task2 right.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\Оля\учеба тестировщик\знакомство с С Sharp\Семинары\ДЗ1\task2 right\obj\Debug\net6.0\task2 right.dll
+C:\Users\Ольга\Desktop\Оля\учеба тестировщик\знакомство с С Sharp\Семинары\ДЗ1\task2 right\obj\Debug\net6.0\refint\task2 right.dll
+C:\Users\Ольга\Desktop\Оля\учеба тестировщик\знакомство с С Sharp\Семинары\ДЗ1\task2 right\obj\Debug\net6.0\task2 right.pdb
+C:\Users\Ольга\Desktop\Оля\учеба тестировщик\знакомство с С Sharp\Семинары\ДЗ1\task2 right\obj\Debug\net6.0\task2 right.genruntimeconfig.cache
+C:\Users\Ольга\Desktop\Оля\учеба тестировщик\знакомство с С Sharp\Семинары\ДЗ1\task2 right\obj\Debug\net6.0\ref\task2 right.dll
